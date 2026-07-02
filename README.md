@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Jerwin Callejas 👋
 
-<!--
-**jerwincallejas2026-hash/jerwincallejas2026-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico Superior en Sistemas Informáticos, enfocado en el desarrollo de soluciones tecnológicas eficientes, gestión de software y programación web/móvil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ Proyecto Destacado: Sitio Web Eclesiástico
+Actualmente me encuentro desarrollando una **página web integral para mi iglesia** como proyecto de grado para mi titulación en 2026. 
+
+*   **Objetivo:** Digitalizar la gestión comunitaria, eventos y difusión de la iglesia.
+*   **Áreas técnicas aplicadas:** Diseño de interfaz de usuario, arquitectura de software y gestión de bases de datos.
+
+---
+
+### 🛠️ Tecnologías y Habilidades
+*   **Desarrollo Web:** HTML5, CSS3, JavaScript
+*   **Sistemas y Gestión:** Análisis y Diseño de Sistemas, Gestión de Software
+*   **Bases de Datos:** SQL / Modelado de Datos
+*   **Móvil:** Introducción a Programación Móvil
+
+---
+
+### 📩 Conéctate conmigo
+*   💼 **Objetivo Profesional:** Disponible para proyectos de desarrollo de software, soporte técnico y consultoría en sistemas.
